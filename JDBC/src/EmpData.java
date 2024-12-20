@@ -1,6 +1,6 @@
 import java.sql.*;
 
-public class Main {
+public class EmpData {
     public static void main(String[] args) {
         Connection connection = null;
         try {
