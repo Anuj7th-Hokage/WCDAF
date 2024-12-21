@@ -4,13 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0502ca0f-d198-4d37-904e-66ff612ea433" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EmpData.java" afterDir="false" />
+    <list default="true" id="0502ca0f-d198-4d37-904e-66ff612ea433" name="Changes" comment="Advance java">
+      <change afterPath="$PROJECT_DIR$/src/Employee_menuDriven/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Employee_menuDriven/GetConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Employee_menuDriven/SelectRecord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -38,6 +48,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.EmpData.executor": "Run",
+    "Application.Employee.executor": "Run",
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -48,10 +60,23 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.EmpData">
     <configuration name="EmpData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EmpData" />
+      <option name="MAIN_CLASS_NAME" value="Day1.EmpData" />
       <module name="JDBC" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Employee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Employee_menuDriven.Employee" />
+      <module name="JDBC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Employee_menuDriven.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -59,6 +84,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.EmpData" />
+        <item itemvalue="Application.Employee" />
       </list>
     </recent_temporary>
   </component>
@@ -71,6 +97,23 @@
       <option name="presentableId" value="Default" />
       <updated>1734628900818</updated>
     </task>
+    <task id="LOCAL-00001" summary="Advance java">
+      <option name="closed" value="true" />
+      <created>1734703614320</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1734703614320</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Advance java">
+      <option name="closed" value="true" />
+      <created>1734703670727</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1734703670727</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -83,5 +126,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Advance java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Advance java" />
   </component>
 </project>
