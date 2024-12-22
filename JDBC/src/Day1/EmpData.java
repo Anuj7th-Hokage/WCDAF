@@ -14,7 +14,7 @@ public class EmpData {
 
             Statement statement = connection.createStatement();
 
-            ResultSet resultSet = statement.executeQuery("SELECT id, name, age, salary FROM emp1");
+            ResultSet resultSet = statement.executeQuery("SELECT id, name, age, salary FROM emp");
 
 
             while (resultSet.next()) {
@@ -23,7 +23,6 @@ public class EmpData {
             }
 
         } catch (ClassNotFoundException e) {
-
             e.printStackTrace();
         } catch (SQLException e) {
             e.printStackTrace();
