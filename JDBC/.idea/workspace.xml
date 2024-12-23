@@ -6,7 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="0502ca0f-d198-4d37-904e-66ff612ea433" name="Changes" comment="Advance java">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Employee_menuDriven/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Employee_menuDriven/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Employee_menuDriven/DeleteRecord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Employee_menuDriven/DeleteRecord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Employee_menuDriven/InsertRecord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Employee_menuDriven/InsertRecord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Employee_menuDriven/UpdateRecord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Employee_menuDriven/UpdateRecord.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,7 +175,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734879389971</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Advance java">
+      <option name="closed" value="true" />
+      <created>1734887074145</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1734887074145</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
